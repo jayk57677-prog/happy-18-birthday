@@ -1,2 +1,2 @@
-# happy-18-birthay
+# happy-18-birthday
 A surprise birthday wishes 
